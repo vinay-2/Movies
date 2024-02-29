@@ -1,0 +1,26 @@
+.footer-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  background-size: cover;
+  width: 100%;
+  line-height: 0;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+.footer-icon {
+  margin: 10px;
+  color: white;
+}
+.footer-icon:hover {
+  color: #32a8a4;
+}
+.contact-heading {
+  color: white;
+  font-size: 18px;
+}
+.contact-heading:hover {
+  color: #32a8a4;
+}

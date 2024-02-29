@@ -1,0 +1,14 @@
+.search-route {
+  background-color: black;
+  min-height: 100vh;
+}
+.failure-view-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+.failure-pic {
+  width: 300px;
+}
